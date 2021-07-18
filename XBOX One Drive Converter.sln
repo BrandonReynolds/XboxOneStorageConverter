@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XBOX One Storage Converter", "XBOX One Storage Converter.csproj", "{D4B5867A-0042-4BFA-91C9-1CB4BD58D908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B5867A-0042-4BFA-91C9-1CB4BD58D908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B5867A-0042-4BFA-91C9-1CB4BD58D908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B5867A-0042-4BFA-91C9-1CB4BD58D908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B5867A-0042-4BFA-91C9-1CB4BD58D908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33BCB916-7C3C-43EC-B80C-EE5E1F336B5D}
+	EndGlobalSection
+EndGlobal
